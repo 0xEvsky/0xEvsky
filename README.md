@@ -12,6 +12,7 @@ I enjoy building things **from scratch** to deeply understand how they work.
 - 🎓 CS student (AI specialization)
 - 🛠 Strong background in Python
 - 🌐 Interested in **AI, MLOps and backend development**
+- 🧼 I value **clean, readable, and maintainable code**
 - 🧠 I prefer understanding concepts deeply before using abstractions
 
 ---
@@ -19,6 +20,7 @@ I enjoy building things **from scratch** to deeply understand how they work.
 ## 🧩 What I Like Working On
 - ⚙️ AI and MLOps
 - 🔐 Backend systems & APIs
+- ☁️ Deploying and operating systems in the cloud
 - 🧠 Algorithms & problem solving
 
 ---
@@ -46,6 +48,11 @@ I enjoy building things **from scratch** to deeply understand how they work.
 
 
 ---
+## 🧠 Technical Foundations
+![Data Structures](https://img.shields.io/badge/Data_Structures-4B8BBE?style=flat-square&logo=databricks&logoColor=white)  
+![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=flat-square&logo=thealgorithms&logoColor=white)  
+![OOP](https://img.shields.io/badge/OOP-7952B3?style=flat-square&logo=code&logoColor=white)  
+![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-0A66C2?style=flat-square&logo=fastapi&logoColor=white)
 
 ## 📌 Current Focus
 - Studying ML theory and systems
