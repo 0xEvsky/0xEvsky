@@ -1,6 +1,6 @@
 # Hi 👋, I'm Akram
 
-💻 Computer Science student @ Cairo University. 
+💻 Computer Science student @ Cairo University.  
 Passionate about **ML systems, MLOps, and backend engineering**.  
 I enjoy building things **from scratch** to deeply understand how they work.
 
