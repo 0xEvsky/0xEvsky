@@ -36,7 +36,7 @@ I enjoy building things **from scratch** to deeply understand how they work.
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-00599C?style=flat-square&logo=cloudflare&logoColor=white)
+
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -51,7 +51,8 @@ I enjoy building things **from scratch** to deeply understand how they work.
 ## 🧠 Technical Foundations
 ![Data Structures](https://img.shields.io/badge/Data_Structures-4B8BBE?style=flat-square&logo=databricks&logoColor=white)  
 ![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=flat-square&logo=thealgorithms&logoColor=white)  
-![OOP](https://img.shields.io/badge/OOP-7952B3?style=flat-square&logo=code&logoColor=white)  
+![OOP](https://img.shields.io/badge/OOP-7952B3?style=flat-square&logo=code&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-00599C?style=flat-square&logo=cloudflare&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-0A66C2?style=flat-square&logo=fastapi&logoColor=white)
 
 ## 📌 Current Focus
