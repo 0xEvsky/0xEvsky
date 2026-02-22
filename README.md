@@ -1,7 +1,10 @@
 # Hi 👋, I'm Akram
 
-💻 Computer Science student passionate about **systems engineering**.  
+💻 Computer Science student @ Cairo University. 
+Passionate about **systems engineering**.  
 I enjoy building things **from scratch** to deeply understand how they work.
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tubeakram7/)
 
 ---
 
