@@ -1,7 +1,7 @@
 # Hi 👋, I'm Akram
 
 💻 Computer Science student @ Cairo University. 
-Passionate about **systems engineering**.  
+Passionate about **ML systems, MLOps, and backend engineering**.  
 I enjoy building things **from scratch** to deeply understand how they work.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tubeakram7/)
@@ -25,21 +25,25 @@ I enjoy building things **from scratch** to deeply understand how they work.
 
 ## 🛠 Tech Stack
 **Languages**
-- Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Machine learning**
--PyTorch
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 **Backend & Systems**
-- Django & Django REST Framework
-- PostgreSQL
-- Networking fundamentals
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-00599C?style=flat-square&logo=cloudflare&logoColor=white)
 
 **Tools**
-- Git & GitHub
-- Docker
-- Bash
-- Linux
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
 
 ---
 
