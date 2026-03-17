@@ -16,11 +16,6 @@ I enjoy building things **from scratch** to deeply understand how they work.
 - 🧠 I prefer understanding concepts deeply before using abstractions
 
 ---
-
-## 🧩 What I Like Working On
-- ☁️ Deploying and operating systems in the cloud
-- 🧠 Algorithms & problem solving
-
 ---
 
 ## 🛠 Tech Stack
