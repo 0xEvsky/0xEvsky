@@ -1,7 +1,7 @@
-# Hi 👋, I'm Akram
+I'm Akram
 
 💻 Computer Science student @ Cairo University.  
-Passionate about **ML systems, MLOps, and backend engineering**.  
+Passionate about **ML systems and backend engineering**.  
 I enjoy building things **from scratch** to deeply understand how they work.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tubeakram7/)
@@ -11,15 +11,13 @@ I enjoy building things **from scratch** to deeply understand how they work.
 ## 🚀 About Me
 - 🎓 CS student (AI specialization)
 - 🛠 Strong background in Python
-- 🌐 Interested in **AI, MLOps and backend development**
+- 🌐 Interested in **AI and backend development**
 - 🧼 I value **clean, readable, and maintainable code**
 - 🧠 I prefer understanding concepts deeply before using abstractions
 
 ---
 
 ## 🧩 What I Like Working On
-- ⚙️ AI and MLOps
-- 🔐 Backend systems & APIs
 - ☁️ Deploying and operating systems in the cloud
 - 🧠 Algorithms & problem solving
 
@@ -69,5 +67,3 @@ I enjoy building things **from scratch** to deeply understand how they work.
 - GitHub: [github.com/0xEvsky](https://github.com/0xEvsky)
 
 ---
-
-⭐ *I believe real understanding comes from building, breaking, and rebuilding.*
