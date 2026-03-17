@@ -1,5 +1,7 @@
 ## I'm Akram
 
+![Alt Text](giphy-ezgif.com-crop.gif)
+
 💻 Computer Science student @ Cairo University.  
 Passionate about **ML systems and backend engineering**.  
 I enjoy building things **from scratch** to deeply understand how they work.
