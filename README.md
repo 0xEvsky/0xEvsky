@@ -10,7 +10,7 @@ I enjoy building things **from scratch** to deeply understand how they work.
 
 ---
 
-## 🚀 About Me
+## 🙋‍♂️ About Me
 - 🎓 CS student (AI specialization)
 - 🛠 Strong background in Python
 - 🌐 Interested in **AI and backend development**
@@ -20,7 +20,7 @@ I enjoy building things **from scratch** to deeply understand how they work.
 ---
 ---
 
-## 🛠 Tech Stack
+## 🧰 Tech Stack
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -60,7 +60,7 @@ I enjoy building things **from scratch** to deeply understand how they work.
 
 ---
 
-## 📫 Connect With Me
+## 💬 Connect With Me
 - GitHub: [github.com/0xEvsky](https://github.com/0xEvsky)
-
+- Email: [akrambaloula@gmail.com](akrambaloula@gmail.com)
 ---
