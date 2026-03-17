@@ -1,6 +1,6 @@
 ## I'm Akram
 
-![Alt Text](giphy-ezgif.com-crop.gif)
+![Alt Text](imgs-gifs/giphy-ezgif.com-crop.gif)
 
 💻 Computer Science student @ Cairo University.  
 Passionate about **ML systems and backend engineering**.  
