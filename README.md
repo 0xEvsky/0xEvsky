@@ -2,7 +2,7 @@
 
 ![Alt Text](imgs-gifs/fyodor-dostoevsky-fyodor.gif)
 
-💻 Computer Science student @ Cairo University.  
+Computer Science student @ Cairo University.  
 Passionate about **ML systems and backend engineering**.  
 I enjoy building things **from scratch** 
 
@@ -10,17 +10,15 @@ I enjoy building things **from scratch**
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 - 🎓 CS student (AI specialization)
 - 🛠 Strong background in Python
-- 🌐 Interested in **AI and backend development**
 - 🧼 I value **clean, readable, and maintainable code**
-- 🧠 I prefer understanding concepts deeply before using abstractions
 
 ---
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
@@ -45,14 +43,14 @@ I enjoy building things **from scratch**
 
 
 ---
-## 🧠 Technical Foundations
+## Technical Foundations
 ![Data Structures](https://img.shields.io/badge/Data_Structures-4B8BBE?style=flat-square&logo=databricks&logoColor=white)  
 ![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=flat-square&logo=thealgorithms&logoColor=white)  
 ![OOP](https://img.shields.io/badge/OOP-7952B3?style=flat-square&logo=code&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-00599C?style=flat-square&logo=cloudflare&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-0A66C2?style=flat-square&logo=fastapi&logoColor=white)
 
-## 📌 Current Focus
+## Current Focus
 - Studying ML theory and systems
 - Learning **MLOps fundamentals**
 - Improving backend architecture skills
@@ -60,7 +58,7 @@ I enjoy building things **from scratch**
 
 ---
 
-## 💬 Connect With Me
+## Connect With Me
 - GitHub: [github.com/0xEvsky](https://github.com/0xEvsky)
 - Email: [akrambaloula@gmail.com](akrambaloula@gmail.com)
 ---
