@@ -16,7 +16,6 @@ I enjoy building things **from scratch**
 - 🧼 I value **clean, readable, and maintainable code**
 
 ---
----
 
 ## Tech Stack
 **Languages**
