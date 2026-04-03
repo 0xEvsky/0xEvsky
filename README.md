@@ -48,16 +48,3 @@ I enjoy building things **from scratch**
 ![OOP](https://img.shields.io/badge/OOP-7952B3?style=flat-square&logo=code&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-00599C?style=flat-square&logo=cloudflare&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-0A66C2?style=flat-square&logo=fastapi&logoColor=white)
-
-## Current Focus
-- Studying ML theory and systems
-- Learning **MLOps fundamentals**
-- Improving backend architecture skills
-- Strengthening system-level thinking
-
----
-
-## Connect With Me
-- GitHub: [github.com/0xEvsky](https://github.com/0xEvsky)
-- Email: [akrambaloula@gmail.com](akrambaloula@gmail.com)
----
