@@ -1,7 +1,5 @@
 ## Hi, I'm Akram
 
-![Alt Text](imgs-gifs/fyodor-dostoevsky-fyodor.gif)
-
 Computer Science student @ Cairo University.  
 Passionate about **ML systems and backend engineering**.  
 I enjoy building things **from scratch** 
